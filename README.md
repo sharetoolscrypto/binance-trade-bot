@@ -151,21 +151,28 @@ method, [add a new strategy](binance_trade_bot/strategies/README.md).
 
 Thanks to a group of talented developers, there is now a [Telegram bot for remotely managing this project](https://github.com/lorcalhost/BTB-manager-telegram).
 
-## Support the Project
 
-<a href="https://www.buymeacoffee.com/edeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-## Join the Chat
+## Binance Account - Get 10% discount on fees!
 
--   **Discord**: [Invite Link](https://discord.gg/m4TNaxreCN)
+Don't you have a **Binance** account yet?  
+Register using the **referal link** below and get a **10% discount on fees** for **all** your trades!
 
-## FAQ
+[**https://accounts.binance.com/en/register?ref=IMNOXVUY**](https://accounts.binance.com/en/register?ref=IMNOXVUY)  
 
-A list of answers to what seem to be the most frequently asked questions can be found in our discord server, in the corresponding channel.
 
-<p align="center">
-  <img src = "https://usercontent2.hubstatic.com/6061829.jpg">
-</p>
+## Enjoy - Donate - Buy me a beer!  =]
+
+Thank you for using Binance to Google Sheets add-on!  
+I really hope you enjoyed and loved it as much as I love to use it everyday.
+
+If your love is strong enough, feel free to share it with me!  =D  
+I will much appreciate any contribution and support to keep working on it.  
+I have several ideas for new features, so much more could come!
+
+You can send any token through the **Binance Smart Chain** (BSC/BEP20) to the address:  
+`0x51CeC0bB36BacC9765e1A5fa67b84810DeF607Ae`
+---
 
 ## Disclaimer
 
